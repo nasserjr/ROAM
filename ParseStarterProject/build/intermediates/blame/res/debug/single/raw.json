@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics-impl\\9.4.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\raw\\zxing_beep.ogg",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\3.5.0\\res\\raw\\zxing_beep.ogg"
+    }
+]

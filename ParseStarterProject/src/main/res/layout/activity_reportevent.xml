@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.parse.starter.reportevent"
+    android:background="@color/maincolor">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/bye"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone">
+
+            <TextView
+                android:id="@+id/textView14"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/textView15"
+                android:layout_centerHorizontal="true"
+                android:text="Your report has been submitted"
+                android:textColor="@color/white"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView15"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="We are sorry you had this experience."
+                android:textColor="@color/white" />
+
+            <Button
+                android:id="@+id/home"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_gravity="right"
+                android:layout_marginBottom="27dp"
+                android:layout_marginEnd="13dp"
+                android:layout_marginRight="13dp"
+                android:background="@drawable/roundedbutton2"
+                android:onClick="home"
+                android:padding="10dp"
+                android:text="Back to Home"
+                android:textColor="@color/maincolor" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/reporttitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:text="REPORT "
+            android:textColor="@color/white"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
+            android:text="Report type"
+            android:textColor="@color/white"
+            android:textSize="17dp" />
+
+        <RadioGroup
+            android:id="@+id/reporttype"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:orientation="vertical">
+
+
+            <RadioButton
+                android:id="@+id/Abuse"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginLeft="20dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="10dp"
+                android:text="Abuse"
+                android:buttonTint="@color/white"/>
+
+            <RadioButton
+                android:id="@+id/spam"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginLeft="20dp"
+                android:layout_marginStart="20dp"
+                android:text="Spam"
+                android:buttonTint="@color/white"/>
+            <RadioButton
+                android:id="@+id/harm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginLeft="20dp"
+                android:layout_marginStart="20dp"
+                android:text="Harmful"
+                android:buttonTint="@color/white"/>
+        </RadioGroup>
+
+
+        <EditText
+            android:id="@+id/details"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/rounded_corner"
+            android:ems="10"
+            android:hint="Details(Optional)"
+            android:inputType="textPersonName"
+            android:lines="8"
+            android:maxLines="10"
+            android:minLines="2"
+            android:padding="5dp"
+            android:scrollbars="vertical"
+            android:textColorHint="@color/dim"
+            android:textSize="14dp"
+            android:textColor="@color/black"/>
+
+        <Button
+            android:id="@+id/Submit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_margin="10dp"
+            android:background="@drawable/roundedbutton2"
+            android:onClick="submit"
+            android:text="Submit"
+            android:textColor="@color/maincolor" />
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

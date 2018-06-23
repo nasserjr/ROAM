@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/list">
+
+    <item android:id="@+id/home"
+        android:checked="false"
+        android:title="Home"
+        android:icon="@drawable/ic_home_black_24dp"/>
+
+    <item android:id="@+id/suggestions"
+        android:checked="false"
+        android:title="Events You May Like"
+        android:icon="@drawable/ic_thumb_up_black_24dp"/>
+
+    <item android:id="@+id/mytickets"
+          android:checked="false"
+          android:title="My Tickets"
+          android:icon="@drawable/ic_confirmation_number_black_24dp"/>
+
+    <item android:id="@+id/management"
+          android:checked="false"
+          android:title="Managed Events "
+          android:icon="@drawable/ic_business_center_black_24dp"/>
+
+    <item android:id="@+id/pending"
+          android:checked="false"
+          android:title="Pending requests"
+          android:icon="@drawable/ic_help_black_24dp"/>
+
+    <item android:id="@+id/changeinterests"
+          android:checked="false"
+          android:title="Change Interests"
+          android:icon="@drawable/ic_star_black_24dp"/>
+
+    <item android:id="@+id/archive"
+        android:checked="false"
+        android:title="Archive"
+        android:icon="@drawable/ic_archive_black_24dp"/>
+
+    <item android:id="@+id/find"
+        android:checked="false"
+        android:title="Search"
+        android:icon="@drawable/search2"/>
+
+
+    <item android:id="@+id/logout"
+          android:checked="false"
+          android:title="Logout"
+          android:icon="@drawable/ic_exit_to_app_black_24dp"/>
+</menu>

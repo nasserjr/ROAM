@@ -1,0 +1,117 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.parse.starter.listfragment"
+    android:layout_marginBottom="50dp"
+    android:layout_marginTop="56dp"
+    android:background="@color/white"
+    >
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="30dp"
+            android:orientation="horizontal"
+            android:background="@color/maincolor">
+
+            <EditText
+                android:id="@+id/gosearch"
+                android:layout_width="280dp"
+                android:layout_height="25dp"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_weight="1"
+                android:background="@drawable/rounded_corner"
+                android:ems="10"
+                android:gravity="top|bottom|center_vertical"
+                android:hint="find"
+                android:inputType="textPersonName"
+                android:textColor="#000000"
+                android:textColorHint="#A3A3A3"
+                android:textSize="15dp" />
+
+            <Button
+                android:id="@+id/search"
+                android:layout_width="wrap_content"
+                android:layout_height="28dp"
+                android:layout_weight="1"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/roundedbuttonsearch"
+                android:text="Search" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/mapview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@color/secondcolor"
+                android:text="Map view" />
+
+            <Button
+                android:id="@+id/listview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@color/maincolor"
+                android:text="List view" />
+        </LinearLayout>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="70dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">>
+                <CheckBox
+                    android:id="@+id/interestfilter"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:buttonTint="@color/maincolor"
+                    android:padding="10dp"
+                    android:text="Filter interests"
+                    android:textStyle="bold"
+                    android:textColor="@color/maincolor"
+                    android:visibility="invisible" />
+
+                <LinearLayout
+                    android:id="@+id/eventlayout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="5dp"
+                    android:orientation="vertical">
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+
+
+
+        </ScrollView>
+
+    </RelativeLayout>
+
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+</FrameLayout>

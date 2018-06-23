@@ -1,0 +1,427 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layoutframe"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="130px"
+    android:background="@color/white"
+    android:layout_marginTop="56dp"
+    tools:context="com.parse.starter.myeventinformation">
+
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageButton
+                    android:id="@+id/eventpicture"
+                    android:layout_width="match_parent"
+                    android:layout_height="250dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:clickable="true"
+                    android:contextClickable="true"
+                    android:scaleType="centerCrop"
+                    android:background="@color/white"
+                    android:src="@drawable/clickme"
+                    />
+
+
+
+            </RelativeLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:orientation="horizontal"
+            android:weightSum="4"
+            >
+
+            <RelativeLayout
+                android:id="@+id/requestslayout"
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:layout_weight="1">
+
+                <TextView
+                    android:id="@+id/requests"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="10dp"
+                    android:text="Requests"
+                    android:textColor="@color/maincolor"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/numberrequestss"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignEnd="@+id/requests"
+                    android:layout_alignRight="@+id/requests"
+                    android:layout_below="@+id/requests"
+                    android:layout_marginEnd="24dp"
+                    android:layout_marginRight="24dp"
+                    android:textColor="@color/maincolor"
+                    android:textSize="17dp" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/guestslayout"
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+
+                <TextView
+                    android:id="@+id/guestlist"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="10dp"
+                    android:text="Guest list"
+                    android:textColor="@color/maincolor"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/numberguests"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignEnd="@+id/guestlist"
+                    android:layout_alignRight="@+id/guestlist"
+                    android:layout_below="@+id/guestlist"
+                    android:layout_marginEnd="24dp"
+                    android:layout_marginRight="24dp"
+                    android:text="0"
+                    android:textColor="@color/maincolor"
+                    android:textSize="17dp" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/following"
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:layout_weight="1">
+
+                <TextView
+                    android:id="@+id/following"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="10dp"
+                    android:text="Managers"
+                    android:textColor="@color/maincolor"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/managersnumb"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignEnd="@+id/following"
+                    android:layout_alignRight="@+id/following"
+                    android:layout_below="@+id/following"
+                    android:layout_marginEnd="24dp"
+                    android:layout_marginRight="24dp"
+                    android:text="0"
+                    android:textColor="@color/maincolor"
+                    android:textSize="17dp" />
+            </RelativeLayout>
+
+            <de.hdodenhof.circleimageview.CircleImageView xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/scan"
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/qr"
+                android:padding="5dp"
+                />
+
+        </LinearLayout>
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:text="About"
+                android:textColor="@color/darkgrey"
+                android:textSize="15dp" />
+
+            <TextView
+                android:id="@+id/about"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:gravity="left"
+                android:lines="8"
+                android:maxLines="10"
+                android:minLines="2"
+                android:text="details"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/eventdetails"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:text="Event details"
+                android:textColor="@color/darkgrey"
+                android:textSize="15dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:id="@+id/clocksymbol"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:layout_alignParentTop="true"
+                        android:layout_marginLeft="18dp"
+                        android:layout_marginStart="18dp"
+                        android:drawableLeft="@drawable/time"
+                        android:textColor="@color/black" />
+
+                    <TextView
+                        android:id="@+id/timeanddate"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="22dp"
+                        android:layout_marginStart="22dp"
+                        android:layout_toEndOf="@+id/clocksymbol"
+                        android:layout_toRightOf="@+id/clocksymbol"
+                        android:text="timeanddate"
+                        android:textColor="@color/black" />
+
+                </RelativeLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:id="@+id/locationsymbol"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:layout_alignParentTop="true"
+                        android:layout_marginLeft="18dp"
+                        android:layout_marginStart="18dp"
+                        android:drawableLeft="@drawable/location"
+                        android:textColor="@color/black" />
+
+                    <TextView
+                        android:id="@+id/location"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="22dp"
+                        android:layout_marginStart="22dp"
+                        android:layout_toEndOf="@+id/locationsymbol"
+                        android:layout_toRightOf="@+id/locationsymbol"
+                        android:lines="4"
+                        android:maxLines="5"
+                        android:minLines="1"
+                        android:text="location"
+                        android:textColor="@color/black" />
+
+                </RelativeLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:id="@+id/interestsymbol"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:layout_alignParentTop="true"
+                        android:layout_marginLeft="18dp"
+                        android:layout_marginStart="18dp"
+                        android:drawableLeft="@drawable/interest"
+                        android:textColor="@color/black" />
+
+                    <TextView
+                        android:id="@+id/interest"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="22dp"
+                        android:layout_marginStart="22dp"
+                        android:layout_toEndOf="@+id/interestsymbol"
+                        android:layout_toRightOf="@+id/interestsymbol"
+                        android:text="interest"
+                        android:textColor="@color/black" />
+
+                </RelativeLayout>
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/peoplesymbol"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginLeft="18dp"
+                    android:layout_marginStart="18dp"
+                    android:drawableLeft="@drawable/community"
+                    android:textColor="@color/black" />
+
+                <TextView
+                    android:id="@+id/maxattendees"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="22dp"
+                    android:layout_marginStart="22dp"
+                    android:layout_toEndOf="@+id/peoplesymbol"
+                    android:layout_toRightOf="@+id/peoplesymbol"
+                    android:text="Maximum number of attendees: "
+                    android:textColor="@color/black" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"></LinearLayout>
+
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:id="@+id/agerange"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:layout_alignParentTop="true"
+                        android:layout_marginLeft="68dp"
+                        android:layout_marginStart="68dp"
+                        android:padding="5dp"
+                        android:text="Age range: "
+                        android:textColor="@color/black" />
+                </RelativeLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:id="@+id/genderrestriction"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="68dp"
+                        android:padding="5dp"
+                        android:text="Gender restriction: "
+                        android:textColor="@color/black" />
+                </RelativeLayout>
+
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:padding="5dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal">
+
+                    <Button
+                        android:id="@+id/invitations"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerVertical="true"
+                        android:layout_weight="1"
+                        android:background="@drawable/roundedbutton"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:text="invite friends"
+                        android:layout_margin="10dp"/>
+
+                    <Button
+                        android:id="@+id/archive"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerVertical="true"
+                        android:layout_weight="1"
+                        android:background="@drawable/roundedbutton"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:layout_margin="10dp"
+                        android:text="archive event" />
+                </LinearLayout>
+
+            </RelativeLayout>
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

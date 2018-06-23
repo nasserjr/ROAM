@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\drawermenu.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\menu\\drawermenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\navigation.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\menu\\navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\archivenavigation.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\menu\\archivenavigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\profilenavigation.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\menu\\profilenavigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\notmyeventnavigation.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\menu\\notmyeventnavigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\header.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\menu\\header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\navigationarchivedevent.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\menu\\navigationarchivedevent.xml"
+    }
+]

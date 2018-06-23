@@ -1,0 +1,83 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.parse.starter.testfragment"
+    android:layout_marginBottom="50dp"
+    android:layout_marginTop="56dp"
+    >
+
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="40dp">
+
+        <com.google.android.gms.maps.MapView
+            android:id="@+id/mapView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginBottom="40dp"/>
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            app:srcCompat="@drawable/addpointer" />
+
+        <Button
+            android:id="@+id/createbutton"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:background="@color/secondcolor"
+            android:text="c r e a t e" />
+    </RelativeLayout>
+
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:orientation="horizontal"
+            android:background="@color/maincolor">
+
+            <EditText
+                android:id="@+id/go"
+                android:layout_width="280dp"
+                android:layout_height="25dp"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_weight="1"
+                android:background="@drawable/rounded_corner"
+                android:ems="10"
+                android:gravity="top|bottom|center_vertical"
+                android:hint="Place name"
+                android:inputType="textPersonName"
+                android:textColor="#000000"
+                android:textColorHint="#A3A3A3"
+                android:textSize="15dp" />
+
+            <Button
+                android:id="@+id/gobutton"
+                android:layout_width="wrap_content"
+                android:layout_height="28dp"
+                android:layout_weight="1"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/roundedbuttonsearch"
+                android:text="Go to" />
+
+    </LinearLayout>
+
+
+</FrameLayout>
+

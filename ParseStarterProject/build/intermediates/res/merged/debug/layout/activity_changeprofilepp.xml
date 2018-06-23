@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.parse.starter.changeprofilepp"
+    android:background="@color/maincolor">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ROAM will look better with your picture"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="31dp"
+        android:textColor="@color/white"/>
+
+    <de.hdodenhof.circleimageview.CircleImageView xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/profile_image"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:cropToPadding="false"
+        android:src="@drawable/clickme"
+        app:civ_border_color="#00000000"
+        app:civ_border_width="2dp"
+        android:layout_below="@+id/textView2"
+        android:layout_alignLeft="@+id/textView2"
+        android:layout_alignStart="@+id/textView2"
+        android:layout_marginTop="46dp" />
+
+    <Button
+        android:id="@+id/confirm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/cancel2"
+        android:layout_alignBottom="@+id/cancel2"
+        android:layout_toEndOf="@+id/remove"
+        android:layout_toRightOf="@+id/remove"
+        android:background="@drawable/roundedbutton2"
+        android:textColor="@color/maincolor"
+        android:onClick="upload"
+        android:layout_marginBottom="25dp"
+        android:text="confirm" />
+
+    <Button
+        android:id="@+id/cancel2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="25dp"
+        android:layout_toLeftOf="@+id/remove"
+        android:layout_toStartOf="@+id/remove"
+        android:background="@drawable/roundedbuttonsearch"
+        android:onClick="cancel"
+        android:text="Cancel" />
+
+    <Button
+        android:id="@+id/remove"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/profile_image"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="17dp"
+        android:background="@drawable/newroundedbutton"
+        android:onClick="remove"
+        android:text="Remove"
+        android:textColor="@color/maincolor"
+        android:visibility="invisible" />
+
+</RelativeLayout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="names">
+        <item>@string/smile_rating_terrible</item>
+        <item>@string/smile_rating_bad</item>
+        <item>@string/smile_rating_okay</item>
+        <item>@string/smile_rating_good</item>
+        <item>@string/smile_rating_great</item>
+    </string-array>
+    <declare-styleable name="SmileRating"><attr format="color" name="angryColor"/><attr format="color" name="normalColor"/><attr format="color" name="drawingColor"/><attr format="boolean" name="showLine"/><attr format="color" name="placeHolderSmileColor"/><attr format="color" name="placeHolderBackgroundColor"/><attr format="color" name="textSelectionColor"/><attr format="color" name="textNonSelectionColor"/><attr format="boolean" name="isIndicator"/></declare-styleable>
+    <string name="app_name">SmileRating</string>
+    <string name="smile_rating_bad">Bad</string>
+    <string name="smile_rating_good">Good</string>
+    <string name="smile_rating_great">Great</string>
+    <string name="smile_rating_okay">Okay</string>
+    <string name="smile_rating_terrible">Terrible</string>
+</resources>

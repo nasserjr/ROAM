@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2015-present, Parse, LLC.
+  ~ All rights reserved.
+  ~
+  ~ This source code is licensed under the BSD-style license found in the
+  ~ LICENSE file in the root directory of this source tree. An additional grant
+  ~ of patent rights can be found in the PATENTS file in the same directory.
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.parse.starter">
+
+    <uses-sdk tools:overrideLibrary="com.ittianyu.bottomnavigationviewex" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <application
+        android:name=".StarterApplication"
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@drawable/logoz"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.NoActionBar">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:noHistory="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Register" />
+        <activity android:name=".ChooseInterests" />
+        <activity android:name=".AddProfilePicture" />
+        <activity
+            android:name=".Home"
+            android:label="@string/title_activity_home" />
+        <!-- maps start -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyDCfI_Yc9Q0wH2fskFd3McfxX3nOlWK-uY" />
+        <!-- maps end -->
+
+        \
+        <activity android:name=".CreateEvent" />
+        <activity
+            android:name=".notmyeventpage"
+            android:label="@string/title_activity_notmyevent" />
+        <activity
+            android:name=".Profile"
+            android:label="@string/title_activity_test" />
+        <activity
+            android:name=".myeventpage"
+            android:label="@string/title_activity_myeventpage" />
+        <activity android:name=".QRscanner" />
+        <activity android:name=".welcome" />
+        <activity android:name=".Ticketlist" />
+        <activity android:name=".Ticketpage" />
+        <activity android:name=".Rateevent" />
+        <activity android:name=".reportevent" />
+        <activity android:name=".changeinterests" />
+        <activity android:name=".managedevents" />
+        <activity android:name=".pending" />
+        <activity
+            android:name=".archive"
+            android:label="@string/title_activity_archive" />
+        <activity
+            android:name=".archivedevent"
+            android:label="@string/title_activity_archivedevent" />
+        <activity android:name=".changeprofilepp" />
+        <activity android:name=".search" />
+        <activity android:name=".suspendpage" />
+        <activity android:name=".eventsugesstions"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,482 @@
+[
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_profilenewsfeed.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\fragment_profilenewsfeed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\zxing_capture.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\3.5.0\\res\\layout\\zxing_capture.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_myeventdiscussion.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\fragment_myeventdiscussion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_myeventinformation.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\fragment_myeventinformation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_requests.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\fragment_requests.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_reviews.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\fragment_reviews.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_rateevent.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\activity_rateevent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\cast_expanded_controller_activity.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\layout\\cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\layout\\cast_intro_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_reportevent.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\activity_reportevent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_guestlist.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\fragment_guestlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_myeventpage.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\activity_myeventpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_archiveinfo.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\fragment_archiveinfo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_addmanagers.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\fragment_addmanagers.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ticketpage.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\activity_ticketpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_timeline.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\fragment_timeline.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_profileinformation.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\fragment_profileinformation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_layout.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_listfragment.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\fragment_listfragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.4.0\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\zxing_barcode_scanner.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\3.5.0\\res\\layout\\zxing_barcode_scanner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_choose_interests.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\activity_choose_interests.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_archive.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\activity_archive.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\cast_mini_controller.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\layout\\cast_mini_controller.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_sendinvitations.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\fragment_sendinvitations.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\header.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_managed.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\fragment_managed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_suspendpage.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\activity_suspendpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_notmyevent.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\activity_notmyevent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qrscanner.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\activity_qrscanner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_map_create.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\fragment_map_create.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_attended.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\fragment_attended.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.4.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pending.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\activity_pending.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ticketlist.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\activity_ticketlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_eventinformation.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\fragment_eventinformation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_testfragment.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\fragment_testfragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\profile.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_map.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\fragment_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_eventdiscussion.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\fragment_eventdiscussion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_layout.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\spinner_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\cast_help_text.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\layout\\cast_help_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_create_event.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\activity_create_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_managedevents.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\activity_managedevents.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.4.0\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.4.0\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_archivedevent.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\activity_archivedevent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_notifications.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_eventsugesstions.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\activity_eventsugesstions.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_changeinterests.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\activity_changeinterests.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_profile_picture.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\activity_add_profile_picture.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_changeprofilepp.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\src\\main\\res\\layout\\activity_changeprofilepp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Nasser\\AndroidStudioProjects\\ROAM\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_layout_snackbar_include.xml"
+    }
+]
